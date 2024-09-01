@@ -23,6 +23,10 @@ This bot allows users to easily modify images using simple text descriptions, ma
 - `/random` - Bot generates random image.
 - `/upload_image` - User uploads real image, with this comand bot will understand it.
 
+## How to run the bot
+
+Just run bot_script.ipynb file and it will connect to your telegram server, untill this notebook is running, the bot will continue working.
+
 ## Demo
 
 You can see full demo by this link: https://drive.google.com/file/d/1uVZsAG_TaHdp3IG-UKZLVO54KHCGQNb6/view?usp=sharing
