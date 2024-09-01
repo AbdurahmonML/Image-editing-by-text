@@ -23,4 +23,10 @@ This bot allows users to easily modify images using simple text descriptions, ma
 - `/random` - Bot generates random image.
 - `/upload_image` - User uploads real image, with this comand bot will understand it.
 
+## Demo
 
+You can see full demo by this link: https://drive.google.com/file/d/1uVZsAG_TaHdp3IG-UKZLVO54KHCGQNb6/view?usp=sharing
+
+![image](https://github.com/user-attachments/assets/f3a87b11-60ea-41b6-a1ed-78aee3a1172d)
+
+![image](https://github.com/user-attachments/assets/6150ea33-7c2f-4da8-8094-83563a331b63)
