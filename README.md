@@ -27,6 +27,9 @@ This bot allows users to easily modify images using simple text descriptions, ma
 
 You can see full demo by this link: https://drive.google.com/file/d/1uVZsAG_TaHdp3IG-UKZLVO54KHCGQNb6/view?usp=sharing
 
-![image](https://github.com/user-attachments/assets/f3a87b11-60ea-41b6-a1ed-78aee3a1172d)
+![image](https://github.com/user-attachments/assets/5883a8f1-52f1-4764-931a-fb0820d17915)
 
-![image](https://github.com/user-attachments/assets/6150ea33-7c2f-4da8-8094-83563a331b63)
+![image](https://github.com/user-attachments/assets/92f04cba-b62e-4c9f-a0bc-599dfd41bedf)
+![image](https://github.com/user-attachments/assets/ed10e572-8808-4ff6-b0cc-2b1cc13f842d)
+
+
