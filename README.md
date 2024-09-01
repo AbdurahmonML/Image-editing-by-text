@@ -20,6 +20,7 @@ I read this paper in order to understand idea behind the solution of this task: 
 - **Model e4e for encoding real image**
 - **Stylegan2 for generating images from vector**
 - **CLIP for measuring loss between image and text**
+- **ArcFace for measuring loss between generated image and initial one**
 
 ## Bot Commands
 
