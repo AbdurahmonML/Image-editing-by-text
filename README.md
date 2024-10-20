@@ -30,7 +30,7 @@ I read this paper in order to understand idea behind the solution of this task: 
 
 ## How to run the bot
 
-Just run bot_script.ipynb file and import necessary python files from other packages and it will connect to your telegram server, untill this notebook is running, the bot will continue working.
+Just run bot_script.ipynb file and import necessary python files from other packages and it will connect to your telegram server (please put your own api token), untill this notebook is running, the bot will continue working.
 
 ## Demo
 
