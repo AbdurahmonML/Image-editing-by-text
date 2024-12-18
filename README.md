@@ -6,7 +6,7 @@ This Telegram bot allows users to modify images based on text descriptions provi
 
 This bot allows users to easily modify images using simple text descriptions, making image editing more accessible and intuitive without needing specialized software or skills. It streamlines the process of creating custom images for personal or professional use.
 
-## Some link:
+## Articles Read 
 
 I read this paper in order to understand idea behind the solution of this task: https://arxiv.org/pdf/2103.17249
 
